@@ -1,0 +1,43 @@
+.App {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+h1 {
+color: rgb(54, 10, 120) ;
+text-align: center;
+
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+button {
+  background-color:rgb(22, 181, 255) ;
+  margin-left: 80%;
+  font-size: 97%; 
+  width: 60%;
+  
+}
+
+.b {
+  background-color:#f2f2f2; 
+  font-size: 97%; 
+  width: 70%;
+}
+
+th {
+  text-align: left;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+
+
+
+td {
+  padding: 10px;
+}
+
